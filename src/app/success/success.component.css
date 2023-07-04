@@ -1,0 +1,12 @@
+.class{
+    background-image: linear-gradient(0deg, rgb(231, 237, 164), rgb(230, 73, 56));
+    width: 1225px;
+    height: 532px;
+}
+h1,h3,.button{
+    text-align: center;
+}
+button{
+background-color: rgb(250, 70, 154);
+border-radius: 20px;
+}

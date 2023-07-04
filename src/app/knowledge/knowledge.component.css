@@ -1,0 +1,13 @@
+ol,p{
+    text-align: justify;
+    font-size: 20px;
+}
+h2{
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(22, 102, 124);
+}
+div{
+    margin: 20px;
+}

@@ -1,0 +1,19 @@
+button{
+    text-align: center;
+    margin-top: 40px;
+     
+    color: black;
+    background-color: rgba(160, 172, 235, 0.564);
+    border-radius: 20px;
+}
+
+.row{
+    background-color:rgb(172, 131, 210);
+    text-align: center;
+    width: 1236px;
+    height: 533px;
+    background-image: linear-gradient(0deg, rgb(4, 47, 66), rgb(104, 157, 218));
+
+     
+}
+

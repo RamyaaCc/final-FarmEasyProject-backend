@@ -1,0 +1,304 @@
+*{
+
+
+
+
+    margin:0;
+
+
+
+
+    padding:0;
+
+
+
+
+    font-family: sans-serif;
+
+
+
+
+
+
+
+}
+
+
+
+
+.fm{
+
+
+
+    background-image:  url(farm.jpg);
+
+
+    font-size: 50px;
+
+    font-family:  'Cherry Bomb One', cursive;
+
+    color: #de4c53;
+
+}
+
+.button{
+
+    width:100px;
+
+    padding: 15px 30px;
+
+    text-align: center;
+
+    margin: 20px 10px;
+
+    border-radius: 5px;
+
+    font-weight: bold;
+
+    background: transparent;
+
+    color: #000000;
+
+    cursor: pointer;
+
+position: relative;
+
+overflow: hidden;
+
+margin-left: 300px;
+
+margin-top: 20px;
+
+text-decoration: none;
+
+border:2px solid #000000;
+
+text-transform: uppercase;
+
+margin-right: -190px;
+
+border-radius: 45%;
+
+
+
+
+background-color: rgb(25, 151, 177);
+
+}
+
+
+
+
+.bg{
+
+
+
+
+    width:100%;
+
+
+
+
+    height:534px;
+
+
+
+
+ 
+
+
+
+
+    background-image:  url(farm.jpg);
+
+   
+
+
+
+
+    background-size: cover;
+
+
+
+
+    background-position: center;
+
+
+
+
+}
+
+
+
+
+
+
+
+.content{
+
+
+
+
+    width: 100%;
+
+
+
+
+    position:absolute;
+
+
+
+
+    top: 25%;
+
+
+
+
+    transform: translate(-50%);
+
+
+
+
+    text-align: justify;
+
+
+
+
+    color:rgb(209, 52, 52);
+
+
+
+
+
+
+
+    margin-left: 50%;
+
+
+
+
+text-align: justify;
+
+
+
+
+margin-right: 100vh;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.content h1{
+
+
+
+
+font-size: 40px;
+
+
+
+
+margin-top: 20px;
+
+
+
+
+margin-left: 10%;
+
+
+text-align: center;
+
+margin-right: 10%;
+
+
+
+
+}
+
+
+
+
+.content h3{
+
+
+
+
+    font-size: 20px;
+
+
+
+
+    margin-top: 10px;
+
+
+
+
+    margin-left: 40%;
+
+
+
+
+    color: rgb(78, 0, 90);
+
+
+
+
+    }
+
+
+
+
+   
+
+
+
+
+.content p{
+
+
+
+
+    margin: 20px 50px;
+font-size: 20px;
+
+
+
+    font-weight: 100;
+
+margin-top: 50px;
+
+
+    line-height: 25px;
+
+
+
+
+margin-left: 10%;
+
+
+
+
+    margin-right: 10% ;
+
+
+
+
+    color:#000000;
+
+
+
+
+
+
+
+}
